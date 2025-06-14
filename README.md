@@ -1,4 +1,4 @@
-<img align="center" src="https://postimg.cc/QHBcN6qh" width="50%">
+<img align="center" src="[https://postimg.cc/QHBcN6qh](https://i.postimg.cc/5Ngg3TYY/image.png)" width="50%">
 
 <h1 align="center">ProjectX - Batch MultiTool</h1>
 
@@ -68,7 +68,7 @@ Edit
 <h1 align="center">🖼 Preview</h1>
 
 <p align="center">
-  <img src="[https://i.ibb.co/DnDCPfm/projectx-preview.png](https://i.postimg.cc/5Ngg3TYY/image.png)" width="70%">
+  <img src="[[https://i.ibb.co/DnDCPfm/projectx-preview.png](https://i.postimg.cc/5Ngg3TYY/image.png)](https://i.postimg.cc/5Ngg3TYY/image.png)" width="70%">
 </p>
 
 ---
