@@ -68,7 +68,7 @@ Edit
 <h1 align="center">🖼 Preview</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/DnDCPfm/projectx-preview.png" width="70%">
+  <img src="[https://i.ibb.co/DnDCPfm/projectx-preview.png](https://i.postimg.cc/5Ngg3TYY/image.png)" width="70%">
 </p>
 
 ---
