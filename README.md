@@ -62,9 +62,6 @@ Edit
 [17] Process Manager - View active processes
 [18] Disk Usage Analyzer - Check drive space
 
-yaml
-Copy
-Edit
 
 ---
 
