@@ -1,4 +1,4 @@
-<img align="center" src="https://i.ibb.co/DnDCPfm/projectx-preview.png" width="80%">
+<img align="center" src="https://i.ibb.co/DnDCPfm/projectx-preview.png" width="120%">
 
 <h1 align="center">ProjectX - Batch MultiTool 🧰</h1>
 
