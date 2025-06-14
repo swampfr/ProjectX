@@ -1,61 +1,74 @@
-<img align="center" src="https://i.ibb.co/CKNhsSx0/image.png" width="80%">
+<img align="center" src="" width="80%">
 
-<h1 align="center">Karma - CMD MultiTool</h1>
+<h1 align="center">ProjectX - Batch MultiTool</h1>
 
 <p align="center">
-   <a href="https://t.me/yourtelegramlink">Telegram</a> 
+   <a href="https://t.me/yourtelegramlink">Discord</a> 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/yourusername/Karma?label=Version&color=red">
-  <img src="https://img.shields.io/github/stars/yourusername/Karma?style=flat&label=Stars&color=red">
-  <img src="https://img.shields.io/github/repo-size/yourusername/Karma?label=Size&color=red">
-  <img src="https://img.shields.io/github/languages/top/yourusername/Karma?color=red">
+  <img src="https://img.shields.io/github/v/release/yourusername/ProjectX?label=Version&color=red">
+  <img src="https://img.shields.io/github/stars/yourusername/ProjectX?style=flat&label=Stars&color=red">
+  <img src="https://img.shields.io/github/repo-size/yourusername/ProjectX?label=Size&color=red">
+  <img src="https://img.shields.io/github/languages/top/yourusername/ProjectX?color=red">
 </p>
 
-<p align="center"><strong>A CMD-based batch toolkit for network inspection, Discord automation, and penetration testing.</strong></p>
+<p align="center"><strong>A powerful CMD-based toolkit for Recon, OSINT, and System Utilities, written in pure Batch.</strong></p>
 
 ---
 
 ## 📌 Overview
 
-- ⚙️ Made with **pure Batch script (.bat)**
-- 💻 Runs natively on **Windows** – no dependencies
-- 🧪 Focused on **network utilities**, **Discord tools**, and **extra testing features**
-- 🚫 No installation needed — just extract and run
-- ✅ Lightweight and open-source for educational use
+- 🧪 Developed in **Batch (.bat)**, no Python or external language dependencies.
+- 🖥 Designed for **Windows** environments.
+- ✅ Fully **Open Source** and **clean** – no malware or backdoors.
+- 💡 Use it for **ethical research, system monitoring, and light recon**.
+- 🔧 Modular and lightweight — doesn't require installation.
+- 🧰 Packed with tools for **network scanning**, **OSINT**, and **system management**.
 
 ---
 
 <h1 align="center">🧭 Modules</h1>
 
-### 🌐 IP Tools
-- `[01] PINGER` – Ping a host to check response time  
-- `[02] IP LOOKUP` – Fetch geolocation and ISP data  
-- `[03] IP LOGGER` – Log incoming IPs (for honeypot use)  
-- `[04] DNS RESOLVER` – Resolve domain to IP  
-- `[05] PORT SCANNER` – Scan open ports on a host  
+### 🕵️‍♂️ Network Scanner
+[1] IP Lookup - Basic IP info fetcher
+[2] IP Pinger - Ping a host to check latency
+[3] IP Viewer - See your external IP address
+[4] IP Stresser - UDP flooder for testing resilience
+[5] IP Generator - Random IPv4 address generator
+[6] Pscan - Lightweight port scanner
 
-### 💬 Discord Tools
-- `[06] TOKEN INFO` – View Discord token metadata  
-- `[07] TOKEN LOGIN` – Open Discord session via token  
-- `[08] WEBHOOK SPAMM` – Repeatedly ping a webhook  
-- `[09] WEBHOOK DEL` – Attempt to delete a Discord webhook  
-- `[10] CHANNEL SPAMM` – Mass message a Discord channel  
+shell
+Copy
+Edit
 
-### 🔧 Extra Tools
-- `[11] RAT TOOL` – (Remote Access Tool interface)  
-- `[12] DOX TOOL` – Info compilation from known public data  
-- `[13] SPAM BOT` – General text spammer  
-- `[14] DISCORD` – Quick open Discord  
-- `[15] EXIT` – Close the tool  
+### 🌐 OSINT Tools
+[7] Whois Lookup - Basic domain WHOIS
+[8] IP Geolocation - (Not functional yet)
+[9] Email Verifier - Check email format validity
+[10] Social Media Search - Search a username across platforms
+[11] Domain Name Finder - Suggest available domains
+[12] Whois History - Lookup domain history (manual)
+
+shell
+Copy
+Edit
+
+### 🛠️ Utilities
+[13] System Information - Get PC specs & OS info
+[14] File Encryption - (Coming soon)
+[15] Network Speed Test - Check latency & speed
+[16] Disk Cleaner - Clean temp & junk files
+[17] Process Manager - View active processes
+[18] Disk Usage Analyzer - Check drive space
+
 
 ---
 
 <h1 align="center">🖼 Preview</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/3TGvRn9/karma-preview.png" width="80%">
+  <img src="https://i.ibb.co/CKNhsSx0/image.png" width="110%">
 </p>
 
 ---
@@ -63,18 +76,24 @@
 <h1 align="center">⚙️ Requirements</h1>
 
 ### ✅ Windows
-- Windows 10 or 11
+- Windows 10/11
 - CMD/Terminal access
-- Must be run as **Administrator** for full access
+- Run as **Administrator** for full functionality
 
-_No need to install Python, Node.js, or additional frameworks._
+_No need to install Python, .NET, or any dependencies!_
 
 ---
 
 <h1 align="center">🚀 Installation</h1>
 
 ### 💻 Run from GitHub
-```bash
-git clone https://github.com/yourusername/Karma
-cd Karma
-Karma.bat
+bash
+git clone https://github.com/swampfr/ProjectX
+cd ProjectX
+ProjectX.bat
+🧾 Or manually:
+Download the .zip archive
+
+Extract to your Desktop
+
+Right-click ProjectX.bat → Run as Administrator
