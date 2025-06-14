@@ -88,7 +88,7 @@ _No need to install Python, .NET, or any dependencies!_
 
 ### 💻 Run from GitHub
 ```bash
-git clone https://github.com/yourusername/ProjectX
+git clone https://github.com/swampfr/ProjectX
 cd ProjectX
 ProjectX.bat
 🧾 Or manually:
@@ -98,23 +98,3 @@ Extract to your Desktop
 
 Right-click ProjectX.bat → Run as Administrator
 
-<h1 align="center">⚠️ Disclaimer</h1>
-ProjectX was created strictly for educational and ethical research purposes.
-We do not condone misuse of this tool.
-The developers are not responsible for any damage or legal consequences resulting from improper use.
-
-<h1 align="center">💸 Support & Donations</h1>
-BTC Address:
-
-nginx
-Copy
-Edit
-bc1qyourbtcwalletaddresshere
-LTC Address:
-
-nginx
-Copy
-Edit
-LYourLTCWalletHere
-<h1 align="center">📬 Connect</h1> <p align="center"> <a href="https://t.me/yourtelegramlink">📲 Telegram</a> ・ <a href="https://yourwebsite.com">🌐 Website</a> ・ <a href="https://discord.gg/yourserver">💬 Discord</a> </p>
-⭐ Star the repo if you found it useful. Contributions, feedback, and forks are always welcome!
