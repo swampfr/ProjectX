@@ -1,6 +1,6 @@
-<img align="center" src="https://i.ibb.co/DnDCPfm/projectx-preview.png" width="120%">
+<img align="center" src="https://i.ibb.co/DnDCPfm/projectx-preview.png" width="50%">
 
-<h1 align="center">ProjectX - Batch MultiTool 🧰</h1>
+<h1 align="center">ProjectX - Batch MultiTool</h1>
 
 <p align="center">
    <a href="https://t.me/yourtelegramlink">Telegram</a> ・ <a href="https://yourwebsite.com">Website</a> ・ <a href="https://www.trustpilot.com">Reviews</a>
